@@ -1,5 +1,6 @@
 # 👋 Здравейте, аз съм Ясин Мустафа!
-https://www.instagram.com/yasin.m04/
+![Uploading image.png…](https://www.instagram.com/yasin.m04/)
+
 🎓 Студент в Пловдивския университет, 2-ри курс.💻 Имам познания по:
 - C++ ➕ (основи)
 - C# ⚙️ (.NET, OOP)

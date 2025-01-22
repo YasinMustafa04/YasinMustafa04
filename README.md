@@ -1,6 +1,6 @@
 <h1 align="center"># 👋 Здравейте, аз съм Ясин Мустафа!</h1>
 <h3 align="center">Кърджали|България</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinmustafa04&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmustafa04" /> </p>
+
 <a href="mailto:yasinmustafa@protonmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail">
 </a>
@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/yasin.m04/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinmustafa04&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmustafa04" /> </p>
 
 🎓 Студент в Пловдивския университет, 2-ри курс.  
 💻 Имам познания по:

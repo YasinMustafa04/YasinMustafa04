@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram">
 
 </a>
-
 <a <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinmustafa04&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmustafa04" /> </p>
 </a>
+
 
 🎓 Студент в Пловдивския университет, 2-ри курс.  
 💻 Имам познания по:

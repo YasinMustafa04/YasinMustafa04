@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=yasinmustafa04"
-       alt="GitHub streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinmustafa04&layout=compact&theme=tokyonight"/>
 </p>
+>
 

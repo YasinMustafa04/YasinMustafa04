@@ -27,7 +27,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend:** PHP, Laravel, Java  
+- **Backend:** PHP, Laravel, Java, C# (.NET)  
 - **Frontend:** JavaScript, HTML, CSS  
 - **Databases:** MySQL  
 - **Other:** Chatbots, REST APIs, OOP

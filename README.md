@@ -1,69 +1,155 @@
-<h1 align="center">👋 Hi, I'm Yasin Mustafa!</h1>
-<h3 align="center">Kardzhali | Bulgaria</h3>
+ <h1 align="center">👋 Hi, I'm Yasin Mustafa!</h1>
 
-<a href="mailto:yasinmustafa@protonmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail">
-</a>
+<h3 align="center">💻 Web Developer | Software Developer</h3>
 
-<a href="https://www.instagram.com/yasin.m04/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<p align="center">
+  📍 Kardzhali, Bulgaria
+</p>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=yasinmustafa04&label=Profile%20views&color=0e75b6&style=flat" alt="yasinmustafa04" />
+<p align="center">
+  <a href="mailto:theyasswork@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/ym.techstudio/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-YM%20Tech%20Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://github.com/YasinMustafa04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yasinmustafa04&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Web Developer focused on **PHP (Laravel)** and **JavaScript**
-- 🤖 Building **chatbots** and interactive web applications
-- ☕ Experience with **Java** and backend logic
-- 🌱 Constantly improving my skills in **web development and software engineering**
-- 📫 Feel free to reach out via social media or email
+I'm a passionate Web Developer interested in building modern websites, interactive applications, and practical software solutions.
+
+- 💻 Focused on **PHP, Laravel, and JavaScript**
+- 🌐 Developing modern and responsive web applications
+- 🤖 Interested in **Chatbots, REST APIs, and automation**
+- ☕ Experience with **Java, C#, and object-oriented programming**
+- 🗄️ Working with relational databases such as **MySQL**
+- 🌱 Continuously learning and improving my development skills
+- 🎯 Focused on writing clean, maintainable, and efficient code
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Backend:** PHP, Laravel, Java, C# (.NET)  
-- **Frontend:** JavaScript, HTML, CSS  
-- **Databases:** MySQL  
-- **Other:** Chatbots, REST APIs, OOP
+**Backend Development**
+- PHP
+- Laravel
+- Java
+- C# / .NET
+
+**Frontend Development**
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+**Databases**
+- MySQL
+
+**Other Technologies & Concepts**
+- REST APIs
+- Chatbot Development
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+
+---
+
+## 💻 Technologies & Tools
+
+<p align="center">
+  <a href="https://www.php.net/">
+    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP">
+  </a>
+  <a href="https://laravel.com/">
+    <img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript">
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" width="45" alt="C#">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3">
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code">
+  </a>
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Landing Pages Portfolio
+
+A collection of six modern web design and landing page projects, showcasing responsive layouts, UI/UX concepts, and PHP development.
+
+**Technologies:** PHP · HTML5 · CSS3 · JavaScript · Bootstrap
+
+<p>
+  <a href="https://github.com/YasinMustafa04/landing-pages-portfolio">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio Repository">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasinmustafa04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinmustafa04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in technology, software development, and new opportunities to learn and build.
+
+<p align="center">
+  <a href="mailto:yasinmustafa@protonmail.com">Email</a> •
+  <a href="https://github.com/YasinMustafa04">GitHub</a> •
+  <a href="https://www.instagram.com/ym.techstudio/">Instagram – YM Tech Studio</a>
+</p>
 
 ---
 
 <p align="center">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-</a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-       alt="laravel" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
+  <strong>💻 Building ideas into reality, one project at a time.</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinmustafa04&layout=compact&theme=tokyonight"/>
+  Made with ❤️ by Yasin Mustafa
 </p>
-
-

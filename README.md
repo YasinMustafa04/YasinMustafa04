@@ -1,14 +1,18 @@
- <h1 align="center">👋 Hi, I'm Yasin Mustafa!</h1>
+<h1 align="center">👋 Hi, I'm Yasin Mustafa!</h1>
 
-<h3 align="center">💻 Web Developer | Software Developer</h3>
+<h3 align="center">💻 Web Developer | C# / ASP.NET Core | PHP</h3>
 
 <p align="center">
-  📍 Kardzhali, Bulgaria
+  📍 Kardzhali, Bulgaria &nbsp;·&nbsp; 🎓 Business Information Technologies student at Plovdiv University
+</p>
+
+<p align="center">
+  <b>🔎 Open to Junior .NET Developer / internship and PHP web developer opportunities</b>
 </p>
 
 <p align="center">
   <a href="mailto:theyasswork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/ym.techstudio/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-YM%20Tech%20Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
@@ -26,91 +30,68 @@
 
 ## 🚀 About Me
 
-I'm a passionate Web Developer interested in building modern websites, interactive applications, and practical software solutions.
+I'm a web developer and 4th-year Business Information Technologies student. I build modern, responsive websites and business applications, and I'm now growing my skills in the **.NET ecosystem** (C#, ASP.NET Core MVC, Entity Framework Core).
 
-- 💻 Focused on **PHP, Laravel, and JavaScript**
-- 🌐 Developing modern and responsive web applications
-- 🤖 Interested in **Chatbots, REST APIs, and automation**
-- ☕ Experience with **Java, C#, and object-oriented programming**
-- 🗄️ Working with relational databases such as **MySQL**
-- 🌱 Continuously learning and improving my development skills
-- 🎯 Focused on writing clean, maintainable, and efficient code
+- ☕ Building web applications with **C#, ASP.NET Core MVC and EF Core**
+- 💻 Developing websites for local businesses with **PHP, MySQL, JavaScript, HTML and CSS**
+- 🏢 Running **YM Tech Studio**, my own web studio: websites, multilingual QR menus and AI chat assistants
+- 🗄️ Working with relational databases: **MySQL** and **SQLite**
+- 🖥️ Basics of **Windows and Linux system administration**
+- 🌱 Continuously learning and writing clean, maintainable code
+- 🤖 Interested in **chatbots, REST APIs and automation**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend Development**
-- PHP
-- Laravel
-- Java
-- C# / .NET
+**.NET / C#**
+- C#, ASP.NET Core MVC (.NET 8), Razor Views
+- Entity Framework Core (Code First, Migrations), LINQ
+- SQLite, Dependency Injection, Data Annotations
 
-**Frontend Development**
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
+**Web (PHP)**
+- PHP, MySQL
+- JavaScript, HTML5, CSS3, Bootstrap
 
-**Databases**
-- MySQL
-
-**Other Technologies & Concepts**
-- REST APIs
-- Chatbot Development
-- Object-Oriented Programming (OOP)
+**Other**
+- Java and Object-Oriented Programming (OOP)
 - Git & GitHub
-
----
-
-## 💻 Technologies & Tools
+- Windows and Linux system administration
+- Multilingual QR menus and AI chat assistants
 
 <p align="center">
-  <a href="https://www.php.net/">
-    <img src="https://skillicons.dev/icons?i=php" width="45" alt="PHP">
-  </a>
-  <a href="https://laravel.com/">
-    <img src="https://skillicons.dev/icons?i=laravel" width="45" alt="Laravel">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" width="45" alt="JavaScript">
-  </a>
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://skillicons.dev/icons?i=cs" width="45" alt="C#">
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3">
-  </a>
-  <a href="https://getbootstrap.com/">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="45" alt="Bootstrap">
-  </a>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git">
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="VS Code">
-  </a>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,sqlite,php,mysql,js,html,css,bootstrap,java,git,github,vscode&perline=14" alt="Technologies and tools">
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
+### 🧾 BillTrack - Invoice & Payment Management System (.NET)
+
+A full-stack web application for managing clients, invoices and payments, with a live dashboard, automatic Overdue status, search, filtering, sorting and pagination. Includes validation, EF Core migrations, seed data and protection against duplicate submissions.
+
+**Technologies:** C# · ASP.NET Core MVC (.NET 8) · Entity Framework Core · SQLite · Razor · LINQ · Bootstrap 5
+
+<p>
+  <a href="https://github.com/YasinMustafa04/BillTrack">
+    <img src="https://img.shields.io/badge/View%20Repository-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="View BillTrack Repository">
+  </a>
+</p>
+
+### 🌐 Client Websites (PHP) - YM Tech Studio
+
+Websites built for local businesses, with a focus on functionality, responsive design and user experience.
+
+- 🍽️ **[Enjoy Bar and Dinner](https://enjoybaranddinner.com/)** - restaurant website with a multilingual QR menu (4 languages) and an AI chat assistant
+- 🍴 **[Wappiano](https://wappiano.com/)** - restaurant website with a multilingual QR menu, contacts and reservations
+- 💍 **[Yildiz Saray](https://www.yildizsaraychernoochene.com/)** - wedding venue website with a gallery, services, contacts and a map
+
+**Technologies:** PHP · HTML5 · CSS3 · JavaScript
+
 ### 🚀 Landing Pages Portfolio
 
-A collection of six modern web design and landing page projects, showcasing responsive layouts, UI/UX concepts, and PHP development.
+A collection of six modern web design and landing page projects, showcasing responsive layouts, UI/UX concepts and PHP development.
 
 **Technologies:** PHP · HTML5 · CSS3 · JavaScript · Bootstrap
 
@@ -128,28 +109,20 @@ A collection of six modern web design and landing page projects, showcasing resp
   <img src="https://github-readme-stats.vercel.app/api?username=yasinmustafa04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinmustafa04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
 ---
 
 ## 📫 Let's Connect!
 
-I'm always interested in technology, software development, and new opportunities to learn and build.
+I'm looking for my first professional role as a **Junior .NET Developer** or **PHP web developer**, and I'm always open to new opportunities to learn and build.
 
 <p align="center">
-  <a href="mailto:yasinmustafa@protonmail.com">Email</a> •
+  <a href="mailto:theyasswork@gmail.com">Email</a> •
   <a href="https://github.com/YasinMustafa04">GitHub</a> •
-  <a href="https://www.instagram.com/ym.techstudio/">Instagram – YM Tech Studio</a>
+  <a href="https://www.instagram.com/ym.techstudio/">Instagram - YM Tech Studio</a>
 </p>
 
 ---
 
 <p align="center">
   <strong>💻 Building ideas into reality, one project at a time.</strong>
-</p>
-
-<p align="center">
-  Made with ❤️ by Yasin Mustafa
 </p>

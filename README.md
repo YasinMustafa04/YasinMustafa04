@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Yasin Mustafa!</h1>
 
-<h3 align="center">💻 Web Developer | C# / ASP.NET Core | PHP</h3>
+<h3 align="center">💻 Junior .NET Developer | C# | ASP.NET Core MVC | PHP</h3>
 
 <p align="center">
-  📍 Kardzhali, Bulgaria &nbsp;·&nbsp; 🎓 Business Information Technologies student at Plovdiv University
+  📍 Kardzhali, Bulgaria
 </p>
 
 <p align="center">
@@ -30,7 +30,11 @@
 
 ## 🚀 About Me
 
-I'm a web developer and 4th-year Business Information Technologies student. I build modern, responsive websites and business applications, and I'm now growing my skills in the **.NET ecosystem** (C#, ASP.NET Core MVC, Entity Framework Core).
+I'm a 4th-year Business Information Technologies student at Plovdiv University, focused on becoming a professional .NET Developer.
+
+I have hands-on experience building websites and digital solutions for real businesses through my own project, YM Tech Studio.
+
+Currently focusing on C#, ASP.NET Core MVC, Entity Framework Core and relational databases.
 
 - ☕ Building web applications with **C#, ASP.NET Core MVC and EF Core**
 - 💻 Developing websites for local businesses with **PHP, MySQL, JavaScript, HTML and CSS**
